@@ -1,6 +1,6 @@
 # Arduino-StreamDeck com Keypad
 
-O Arduino Stream Deck é um teclado de teclas macros para gerenciar lives.
+O Arduino Stream Deck é um teclado de teclas macros para gerenciar livestreams.
 Materiais:
   - Keypad(4x4 ou 4x3)
   - Arduino(Leonardo ou Pro Micro)
